@@ -24,7 +24,7 @@
 //    including basic arithmetic, MPG calculations, Simple Pay calculations, and more. //
 //                                                                                     //
 // 5. Type the number or letter corresponding to the action you want to perform and    //
-//    press Enter. 								                                       //
+//    press Enter. 								                                                     //
 //                                                                                     //
 // 6. Depending on your choice, you may be prompted to enter additional information    //
 //    such as numbers for arithmetic operations or data for MPG and Simple Pay         //
@@ -38,14 +38,14 @@
 //                                                                                     //
 // 9. If you try to divide by zero, you will be prompted that you cannot divide by     //
 //    zero and be prompted a second time to enter two numbers. If you try to divide    //
-//    by zero the second time, you will be brought back to the main menu.              //
+//    by zero the second time, you will return to the main menu.                       //
 //                                                                                     //
 // 10. To save MPG or Simple Pay calculations to a file, select the corresponding      //
 //     option from the menu. You can also view saved files directly from the menu.     //
-//   										                                           //
+//   										                                                               //
 // 11. Total pay will be shown at the end of the file but will not be saved to the     //
-//     text file.								                                       //
-//           									                                       //
-// 12. To exit the program, select the 'Exit' option from the menu. A thank you        //
+//     text file.								                                                       //
+//           									                                                         //
+// 12. Select the 'Exit' option from the menu to exit the program. A thank you         //
 //     message featuring your name will appear, and the program will close.            //
 /////////////////////////////////////////////////////////////////////////////////////////
